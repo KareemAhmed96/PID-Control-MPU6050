@@ -1,4 +1,4 @@
-<p align="center" font-size=11>
+<p align="center" style="font-size:30px">>
   <img width="460" height="300" src="Servo-Connections.png">
   <p align="center">
     Servo Motor Connections
