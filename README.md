@@ -1,6 +1,6 @@
 <p align="center">
   <img width="460" height="300" src="Servo-Connections.png">
-  <p align="center" style="font-size:10px">
+  <p style="font-size:10px">
     Servo Motor Connections
   </p>
 </p>
