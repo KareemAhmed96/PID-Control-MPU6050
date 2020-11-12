@@ -5,5 +5,9 @@
   </p>
 </p>
 
+<p align="center">
+  <img width="460" height="300" src="MPU6050-Connections.png">
+</p>
 
-![alt text](MPU6050-Connections.png)
+
+
