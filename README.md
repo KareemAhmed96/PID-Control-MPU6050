@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  <img width="520" height="340" src="MPU6050-Connections.png">
+  <img width="720" height="460" src="MPU6050-Connections.png">
 </p>
